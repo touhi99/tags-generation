@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+langchain
+ctransformers
+beautifulsoup4
+lxml
+jupyterlab
