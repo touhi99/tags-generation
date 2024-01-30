@@ -20,7 +20,7 @@ or
 
 then run the automatic-tagger.ipynb notebook.
 
-## Observations
+## Approaches & Observations
 
 Here the notebook performs the following steps:
 - Data is loaded, preprocessesd (removing html tags, special character etc.) and concatenated (body , title)
